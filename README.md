@@ -1,9 +1,9 @@
 # Building-a-Formik-Form
-##Description
+## Description
 
 This shows a simple sign-up form using React and Formik. The user can enter their email as a username, and a password.
 
-##Installation and Usage
+## Installation and Usage
 
 Clone the repository or download the code files. You'll need these files: 
     -public/index.html (this is where your React app will be loaded inside the root element)
@@ -12,10 +12,10 @@ Clone the repository or download the code files. You'll need these files:
     Within the same command-line window, run npm install to install all dependencies
     Once the command completes successfully, run npm start to start the application in your browser. Then update the code to your liking.
 
-##Dependencies
+## Dependencies
 The project relies on the following dependencies: React, Formik.
 
-##License Info:
+## License Info:
 
 MIT Copyright (c) 2023 Elizabeth Goldston
 
